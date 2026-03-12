@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# go
+/go-api/tmp/
+
+# version managers
+.tool-versions
+
+# internal tooling
+/lib/

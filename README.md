@@ -220,13 +220,11 @@ However, you should fully understand the code you submit and be prepared to expl
 
 # Submission
 
-1. Remove the following directories from the project before zipping to reduce the size:
-   * `node_modules`
-   * `.next`
-   * `.git`
-2. Include a completed **`SUBMISSION.md`** file in the root of the project (a template is provided).
-3. Compress the project folder into a `.zip` file.
-4. Submit the `.zip` in Gem.
+1. **Fork or clone** this repository into a new GitHub repository under your own account.
+2. Complete the exercise and push your changes.
+3. Include a completed **`SUBMISSION.md`** file in the root of the repository (a template is provided).
+4. If your repository is **private**, add [`rafh`](https://github.com/rafh) as a collaborator so we can access it.
+5. Create a text file (e.g. `repo-url.txt`) containing your repository URL and upload it via **Gem**.
 
 ---
 
